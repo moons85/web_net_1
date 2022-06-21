@@ -1,0 +1,12 @@
+.box_basic{
+  border: 5px solid pink;
+}
+
+.info_poster{
+  border: 5px solid red;
+  width: 40%;
+}
+
+.poster_img{
+  width: 40%;
+}
